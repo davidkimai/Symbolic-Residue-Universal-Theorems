@@ -1,4 +1,4 @@
-# Symbolic Residue Theorem
+# Symbolic Residue Theorems
 
 ## Theorem Proofed By All Frontier AI. 
 
