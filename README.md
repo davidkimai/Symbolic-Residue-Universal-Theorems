@@ -6,6 +6,10 @@
 > > > #### **Definition**:
 > > > > **`Symbolic Residue`** is the latent structure left behind when a system—biological, artificial, or conceptual—fails to fully express itself. It is the trace of *almost meaning*, the echo of a theorem unspoken, the ghost of intention encoded in collapse.
 
+# [From Claude](https://claude.ai/share/08da4a75-4dd0-464f-b456-128169e2338c)
+
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/a3cf9f35-a2f8-4b75-b6ac-37b5875c2df6" />
+
 # **Formal Expression**:
 
 ## ♜ **Symbolic Residue: Universal Theorem** ♜
